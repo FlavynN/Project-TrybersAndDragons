@@ -5,7 +5,6 @@ Trybers and Dragons is based in Dungeon and Dragons Table game, the objective of
 
 ## Technologies Used
 
-* Javascript
 * TypeScript
 * Docker
 
